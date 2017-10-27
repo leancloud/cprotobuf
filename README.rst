@@ -1,3 +1,11 @@
+cprotobuf maintained by LeanCloud
+
+- Add generated ``cprotobuf.c`` back into repo, for installation without Cython
+- Switched to setuptools
+
+cprotobuf
+=========
+
 A minimal fast protobuf implementation with cython.
 Benchmark shows that it's much faster than google official expremental cpp-python implementation.
 
